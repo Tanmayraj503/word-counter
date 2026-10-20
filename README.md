@@ -9,7 +9,7 @@
 ## Getting Started
 
 ```bash
-# Install dependencies
+# Install dependencie
 npm install
 
 # Start dev server
