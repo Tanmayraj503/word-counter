@@ -5,5 +5,7 @@
 - **Tailwind CSS v4** for styling
 - **Wouter** for routing
 
-  
+## usage
+
+- used for counting words in a sentence
 
